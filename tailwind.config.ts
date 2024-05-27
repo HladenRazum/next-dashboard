@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       gridTemplateColumns: {
         '13': 'repeat(13, minmax(0, 1fr))',
+        gallery: 'repeat(auto-fit, minmax(250px, 1fr))',
       },
       colors: {
         blue: {

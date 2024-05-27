@@ -1,1 +1,1 @@
-https://nextjs.org/learn/dashboard-app/setting-up-your-database
+https://nextjs.org/learn/dashboard-app/fetching-data
